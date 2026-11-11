@@ -1,0 +1,7 @@
+﻿version;variables;auc_cv;diferencia;ic_inf;ic_sup;elegida
+C1 · completo (17);17;0,641788;-0,005558;-0,014516;0,003399;
+C3 · elegida (6);6;0,636838;-0,010508;-0,028746;0,007729;Elegida
+C4 · C3 + compra fuera del depto. (7);7;0,637936;-0,009411;-0,026950;0,008129;
+C5 · C4 + frecuencia y volumen (9);9;0,637071;-0,010276;-0,025552;0,005000;
+C6 · C5 + departamento (10);10;0,641312;-0,006035;-0,019576;0,007506;
+C2 · seleccionado (12);12;0,647347;0,000000;0,000000;0,000000;

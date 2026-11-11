@@ -1,0 +1,9 @@
+﻿evento;orden;modelo;auc;ic_inf;ic_sup;creditos;eventos
+30+ a 3 meses (monitoreo);2;C3;0,694321;0,630764;0,757878;1885;73
+30+ a 3 meses (monitoreo);2;Segmento vigente;0,546596;0,517091;0,576101;1885;73
+60+ a 6 meses;3;C3;0,665279;0,590116;0,740441;1033;58
+60+ a 6 meses;3;Segmento vigente;0,523996;0,481590;0,566403;1033;58
+90+ a 6 meses;4;C3;0,713713;0,622894;0,804532;1033;38
+90+ a 6 meses;4;Segmento vigente;0,531235;0,482191;0,580279;1033;38
+30+ a 6 meses (principal);1;C3;0,619675;0,556195;0,683155;1033;93
+30+ a 6 meses (principal);1;Segmento vigente;0,526167;0,492186;0,560148;1033;93

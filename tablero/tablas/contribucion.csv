@@ -1,0 +1,37 @@
+﻿variable;categoria;creditos;contribucion_pp;deterioro_observado
+Ciudad;Quibdo;36;-3,538991;0,027778
+Ciudad;Cali;64;-3,518690;0,109375
+Ciudad;Cucuta;78;-3,328727;0,089744
+Ciudad;Villavicencio;50;-2,853065;0,060000
+Ciudad;Bello;36;-0,934401;0,111111
+Ciudad;Otras;483;-0,881620;0,080745
+Ciudad;Medellin;194;2,006518;0,077320
+Ciudad;Bucaramanga;47;2,219058;0,148936
+Ciudad;Bogota;45;2,901990;0,222222
+Edad;18-25;171;-1,306601;0,134503
+Edad;26-30;175;-0,841355;0,074286
+Edad;31-35;203;-0,378436;0,054187
+Edad;36-40;167;-0,230053;0,083832
+Edad;41-50;169;0,365510;0,088757
+Edad;51+;148;3,103569;0,114865
+Estado civil;Casado;188;-3,595626;0,090426
+Estado civil;Union libre;257;-1,717180;0,073930
+Estado civil;Soltero;576;3,006763;0,098958
+Familia de moto;Scooter A;419;-3,230025;0,050119
+Familia de moto;Deportiva D;31;-2,890669;0,032258
+Familia de moto;Urbana y de trabajo C;25;-2,340744;0,240000
+Familia de moto;Scooter C;37;-2,339552;0,135135
+Familia de moto;Deportiva B;64;-0,182246;0,078125
+Familia de moto;Doble propósito B;60;1,245309;0,066667
+Familia de moto;Urbana y de trabajo A;60;1,643722;0,150000
+Familia de moto;Doble propósito A;157;1,763718;0,082803
+Familia de moto;Deportiva C;12;2,320975;0,166667
+Familia de moto;Urbana y de trabajo B;56;2,441046;0,071429
+Familia de moto;Deportiva A;69;6,633174;0,130435
+Familia de moto;Doble propósito C;29;23,578443;0,379310
+Independiente informal;Formal;872;-0,452472;0,081422
+Independiente informal;Informal;161;1,663446;0,136646
+Nivel de estudio;Postgrado;184;-0,371641;0,038043
+Nivel de estudio;Bachiller;454;-0,057528;0,110132
+Nivel de estudio;Pregrado;364;0,232389;0,090659
+Nivel de estudio;Primaria;31;0,456258;0,096774
